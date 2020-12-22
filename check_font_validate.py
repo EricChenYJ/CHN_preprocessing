@@ -85,4 +85,3 @@ if __name__ == '__main__':
                 final.write('\n')
     wrong_font.close()
     final.close()
-    # input.close()
