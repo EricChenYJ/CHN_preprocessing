@@ -1,4 +1,4 @@
-# CHN_preprocessing
+# CHiNESE_preprocessing
 tools to do some functionality
 
 1. check_fonts_validate.py 
