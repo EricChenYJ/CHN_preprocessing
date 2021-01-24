@@ -6,4 +6,4 @@ tools to do some functionality
    
 2. remove 字典中句號...等等標點符號
  
-3. 根據 GT 建立一個乾淨的字典
+3. 根據 GT 建立一個乾淨的字典(尚未完成)
